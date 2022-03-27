@@ -62,9 +62,13 @@
 
 ![Untitled](./images/introduce.png)
 
-- 와이어프레임 [https://www.figma.com/file/uYN0Te96uSVsloWIQJShqm/보리-와이어-프레임?node-id=0%3A1](https://www.figma.com/file/uYN0Te96uSVsloWIQJShqm/%EB%B3%B4%EB%A6%AC-%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?node-id=0%3A1)
+- 와이어프레임 ([링크](https://www.figma.com/file/uYN0Te96uSVsloWIQJShqm/%EB%B3%B4%EB%A6%AC-%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?node-id=0%3A1))
 
-[https://embed.notion-tools.com/block/html/?c=%3Ciframe%20style%3D%22border%3A%201px%20solid%20rgba(0%2C%200%2C%200%2C%200.1)%3B%22%20width%3D%22800%22%20height%3D%22450%22%20src%3D%22https%3A%2F%2Fwww.figma.com%2Fembed%3Fembed_host%3Dshare%26url%3Dhttps%253A%252F%252Fwww.figma.com%252Ffile%252FuYN0Te96uSVsloWIQJShqm%252F%2525EB%2525B3%2525B4%2525EB%2525A6%2525AC-%2525EC%252599%252580%2525EC%25259D%2525B4%2525EC%252596%2525B4-%2525ED%252594%252584%2525EB%2525A0%252588%2525EC%25259E%252584%253Fnode-id%253D1050%25253A32%22%20allowfullscreen%3E%3C%2Fiframe%3Ent](https://embed.notion-tools.com/block/html/?c=%3Ciframe%20style%3D%22border%3A%201px%20solid%20rgba(0%2C%200%2C%200%2C%200.1)%3B%22%20width%3D%22800%22%20height%3D%22450%22%20src%3D%22https%3A%2F%2Fwww.figma.com%2Fembed%3Fembed_host%3Dshare%26url%3Dhttps%253A%252F%252Fwww.figma.com%252Ffile%252FuYN0Te96uSVsloWIQJShqm%252F%2525EB%2525B3%2525B4%2525EB%2525A6%2525AC-%2525EC%252599%252580%2525EC%25259D%2525B4%2525EC%252596%2525B4-%2525ED%252594%252584%2525EB%2525A0%252588%2525EC%25259E%252584%253Fnode-id%253D1050%25253A32%22%20allowfullscreen%3E%3C%2Fiframe%3Ent)
+
+
+### 사용자 메뉴얼
+
+<img src="./images/manual.png" alt="manual" style="zoom:50%;" />
 
 ### 소셜 로그인
 

@@ -8,7 +8,7 @@
 
 ## **팀원 소개 및 역할**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0540efbe-f320-4fb8-b3a5-3842c903e8d2/Untitled.png)
+![Untitled](./images/team.png)
 
 - 김혜인(팀장, FE)
     - Frontend - Next.js, Redux, Sass(Scss)
@@ -60,7 +60,7 @@
 
 ## 서비스 설명 및 주요 기능
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ad4a91fd-16fe-4a98-a2ff-fcd8f0aadd66/Untitled.png)
+![Untitled](./images/introduce.png)
 
 - 와이어프레임 [https://www.figma.com/file/uYN0Te96uSVsloWIQJShqm/보리-와이어-프레임?node-id=0%3A1](https://www.figma.com/file/uYN0Te96uSVsloWIQJShqm/%EB%B3%B4%EB%A6%AC-%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?node-id=0%3A1)
 
@@ -251,8 +251,9 @@ git commit -m "[S06P12C203-85] chore: Jira 연동 테스트"
 
 ## 아키텍처 및 ERD
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/108e4472-a602-42d1-a7db-4ba146001e2c/Untitled.png)
+![Untitled](./images/architecture.png)
 
-![dangdang_final_ERD.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ba39f69-83bb-488e-be39-82fafb37649c/dangdang_final_ERD.png)
+![dangdang_final_ERD.png](./images/mysql_ERD.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90258d42-6cf3-4243-b417-18bc1b682e0f/Untitled.png)
+![Untitled](./images/mongoDB_ERD.png)
+

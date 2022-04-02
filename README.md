@@ -1,11 +1,13 @@
 # 당당! (DangDang)
+#### 당당하게 면접보자! 면접 연습을 도와주는 면접 스터디 플랫폼
 
-주제: 당당하게 면접보자! 면접 연습을 도와주는 면접 스터디 플랫폼
+개발기간:  22.01.10~22.02.18 (총 6주)<br/>
 
-개발기간:  22.01.10~22.02.18 (총 6주)
+🏆 삼성 청년 SW아카데미 6기 공통PJT 최우수상
 
 ## 개발 배경
-면접을 준비하기 위해서는 크게 첫 번째, 혼자 준비하는 것과 두 번째, 면접 스터디를 통한 준비가 있습니다. 이 두가지를 통해 면접을 준비하기 위해서는 어떤 질문이 나올지 일일히 질문을 수집해야 하며, 질문에 답하는 모습을 녹화하기 위해 녹화 버튼을 매번 눌러야하고 스터디를 가입하기 위해 정보를 찾아봐야 하는 등의 귀찮음과 어려움이 있습니다.
+면접을 준비하기 위해서는 크게 첫 번째, 혼자 준비하는 것과 두 번째, 면접 스터디를 통한 준비가 있습니다. <br>
+이 두가지를 통해 면접을 준비하기 위해서는 어떤 질문이 나올지 일일히 질문을 수집해야 하며, 질문에 답하는 모습을 녹화하기 위해 녹화 버튼을 매번 눌러야하고 스터디를 가입하기 위해 정보를 찾아봐야 하는 등의 귀찮음과 어려움이 있습니다.
 <br>
 그래서 저희는 이러한 문제점을 보완하고 실제 면접과 유사한 환경에서 면접 연습을 할 수 있도록 도와주는 면접 스터디 플랫폼 '당당'을 개발하였습니다. 
 
@@ -82,57 +84,44 @@
       </td>
     </tr>
   </table>
-
-  <br />
-  
-- 김혜인(팀장, FE)
-    - Frontend - Next.js, Redux, Sass(Scss)
-- 김동유(FE)
-    - Frontend - NEXTjs, Redux
-    - WebRTC - kurento
-- 최지수(FE)
-    - Frontend - Next.js, Redux, Sass(Scss)
-- 이윤준(BE)
-    - Spring - Spring boot, Spring Security, JPA, QueryDSL
-    - DB - Mysql, MogoDB, Redis
-    - CI/CD - Jenkins, Nginx,
-- 임혁(BE)
-    - WebRTC - Kurento
-- 조은지(BE)
-    - Frontend - Sass(Scss)
-    - WebRTC - Kurento
+<details>
+    <summary>자세히</summary>
+    
+    - 김혜인(팀장, FE)
+        - Frontend - Next.js, Redux, Sass(Scss)
+    - 김동유(FE)
+        - Frontend - NEXTjs, Redux
+        - WebRTC - kurento
+    - 최지수(FE)
+        - Frontend - Next.js, Redux, Sass(Scss)
+    - 이윤준(BE)
+        - Spring - Spring boot, Spring Security, JPA, QueryDSL
+        - DB - Mysql, MogoDB, Redis
+        - CI/CD - Jenkins, Nginx,
+    - 임혁(BE)
+        - WebRTC - Kurento
+    - 조은지(BE)
+        - Frontend - Sass(Scss)
+        - WebRTC - Kurento
+</details>
 
 ## 기술 스택
-
-- 프론트엔드
-    - HTML5, CSS, JavaScript(ES6+)
-    - React
-    - Redux
-    - Next.js
-    - SCSS(SASS)
+### FE
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) <br/>
     - WebRTC
-- 백엔드
-    - Java 11
-    - Spring Boot
-    - MySQL
-    - MongoDB
-    - Redis
-    - JPA, QueryDSL, Spring Data
-    - Spring Security
-- CI/CD
-    - Docker
-    - Jenkins
-    - Nginx
-    - Amazon EC2
-- 에디터
-    - FE: Visual Studio Code
-    - BE: IntelliJ
-    - 와이어프레임: Figma
-- 협업 툴
-    - Git
-    - Jira
-    - Mattermost
-    - Gather Town
+
+### BE
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Hibernate&logoColor=white"> <br/>
+    - WebrRTC, JPA, QueryDSL, Spring Data, Spring Security
+### CI/CD
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+
+### Editor
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 협업 툴
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) <br/>
+    - Mattermost, Gather Town
 
 ## 서비스 설명 및 주요 기능
 
@@ -142,10 +131,13 @@
 <!-- ## 사용자 메뉴얼 -->
 <!-- <img src="./images/manual.png" alt="manual" style="zoom:50%;" /> -->
 
-### 소셜 로그인
+### 1. 소셜 로그인
 
-### 혼자연습한당 (1인 면접 연습)
-
+<details>
+<summary> <h3>2. 혼자 연습한당 (1인 면접 연습)</h3></summary>
+<div markdown="1">
+    
+    
 - 1인 면접 연습 방 생성
 - 나만의 질문리스트 생성 가능
 - 카메라, 마이크 사전 테스트
@@ -156,8 +148,14 @@
 - 사운드 조절 기능 구현
 - 질문별 녹화, 다운로드 기능
 
-### 같이 연습한당 (면접 스터디)
 
+</div>
+</details>
+<details>
+<summary> <h3>3. 같이 연습한당 (면접 스터디)</h3></summary>
+<div markdown="1">
+    
+    
 - 카메라, 마이크 사전 테스트
 - 채팅, 화면 공유
 - 카메라, 마이크, 스피커 장치 변경, on/off 기능
@@ -169,8 +167,14 @@
         - 각각의 역할에 따라 카메라 배치에 차이를 둠
         - 자신의 영상은 오른쪽 하단 구석에 배치되며, 클릭시 PIP모드 작동
 
-### 질문 궁금하당
 
+</div>
+</details>
+<details>
+<summary> <h3>4. 질문 궁금하당</h3></summary>
+<div markdown="1">
+    
+    
 - 질문 게시판 카테고리 별 페이지 개발 &
     - 유저는 자신의 직군 또는 공통 면접 질문들을 보길 원한다
 - 질문 게시판 검색 필터 컴포넌트 및 기능 개발 &
@@ -179,18 +183,26 @@
     - 유저는 질문을 등록하기를 원한다.
     - 유저는 질문을 수정하길 원한다.
     - 유저는 질문을 삭제하길 원한다.
-
-### 스터디 구한당
-
+</div>
+</details>
+<details>
+<summary> <h3>5. 스터디 구한당</h3></summary>
+<div markdown="1">
+    
+    
 - 스터디 생성 가능
 - 본인이 만든 스터디 정보 수정 가능
 - 모든 스터디 최근 생성일 순으로 조회 가능
 - 스터디 가입 신청 또는 가입 신청 취소 할 수 있음
 - 스터디 검색어(해쉬태그)로 검색 가능
 - 스터디 공고 상세 페이지 개발 → 스터디 상세 정보를 열람할 수 있고 스터디장과 댓글과 대댓글로 정보 공유 또는 질의응답 할 수 있도록 함
-
-### 팀 스페이스
-
+</div>
+</details>
+<details>
+<summary> <h3>6. 팀 스페이스</h3></summary>
+<div markdown="1">
+    
+    
 - 팀정보 - (all)
     - 현재 스터디 현황을 알 수 있음 (개설일, 스터디원, 스터디장)
     - 스터디를 탈퇴할 수 있다.
@@ -205,25 +217,41 @@
     - 공유 게시판으로 팀원 간 회사 정보 등을 공유할 수 있다.
     - 유저 본인이 쓴 글에 대해 수정, 삭제가 가능하다.
 
-### 마이페이지
+
+</div>
+</details>
+<details>
+<summary> <h3>7. 마이페이지</h3></summary>
+<div markdown="1">
+    
+    
 
 - 유저 본인의 정보를 조회, 수정 할 수 있다.
 - 당당을 탈퇴할 수 있다.
 - 마이룸
     - 유저가 속한 스터디룸만 최근 생성일 순으로 조회 가능하다(각 스터디는 팀스페이스와 연결)
 
-### 관리자페이지
+
+</div>
+</details>
+<details>
+<summary> <h3>8. 관리자페이지</h3></summary>
+<div markdown="1">
+    
+    
 
 - 관리자는 당당의 모든 유저를 조회 가능하다
 - 관리자는 유저를 매니저로 등업시킬 수 있다.
 - 관리자, 매니저는 당당의 모든 질문을 조회 가능하다.
 - 관리자, 매니저는 모든 질문에 대하여 공개, 비공개 설정이 가능하다.
 
----
+
+</div>
+</details>
 
 ## 사용법
 
-## Quick Start
+#### Quick Start
 
 Linux 
 

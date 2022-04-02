@@ -5,11 +5,86 @@
 개발기간:  22.01.10~22.02.18 (총 6주)
 
 ## 개발 배경
+면접을 준비하기 위해서는 크게 첫 번째, 혼자 준비하는 것과 두 번째, 면접 스터디를 통한 준비가 있습니다. 이 두가지를 통해 면접을 준비하기 위해서는 어떤 질문이 나올지 일일히 질문을 수집해야 하며, 질문에 답하는 모습을 녹화하기 위해 녹화 버튼을 매번 눌러야하고 스터디를 가입하기 위해 정보를 찾아봐야 하는 등의 귀찮음과 어려움이 있습니다.
+<br>
+그래서 저희는 이러한 문제점을 보완하고 실제 면접과 유사한 환경에서 면접 연습을 할 수 있도록 도와주는 면접 스터디 플랫폼 '당당'을 개발하였습니다. 
 
 ## **팀원 소개 및 역할**
+<table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/HyeIn-Kim">
+          <img src="https://avatars.githubusercontent.com/u/25563077?v=4" alt="김혜인 프로필" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/DongYu-Kim">
+          <img src="https://avatars.githubusercontent.com/u/85825413?v=4" alt="김동유 프로필" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/cjscoding">
+          <img src="https://avatars.githubusercontent.com/u/77915616?v=4" alt="최지수 프로필" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/AntCode97">
+          <img src="https://avatars.githubusercontent.com/u/50140266?v=4" alt="이윤준 프로필" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Hyuk9606">
+          <img src="https://avatars.githubusercontent.com/u/87606735?v=4" alt="임혁 프로필" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/dmswl0311">
+          <img src="https://avatars.githubusercontent.com/u/48826021?v=4" alt="조은지 프로필" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+          팀장 / FE<br />
+        <a href="https://github.com/HyeIn-Kim">
+          김혜인<br />
+        </a>
+      </td>
+      <td align="center">
+           FE<br />
+        <a href="https://github.com/DongYu-Kim">
+          김동유<br />
+        </a>
+      </td>
+      <td align="center">
+           FE<br />
+        <a href="https://github.com/cjscoding">
+          최지수<br />
+        </a>
+      </td>
+      <td align="center">
+           BE<br />
+        <a href="https://github.com/AntCode97">
+          이윤준<br />
+        </a>
+      </td>
+      <td align="center">
+          BE<br />
+        <a href="https://github.com/Hyuk9606">
+          임혁<br />
+        </a>
+      </td>
+      <td align="center">
+          BE<br />
+        <a href="https://github.com/dmswl0311">
+          조은지<br />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-![Untitled](./images/team.png)
-
+  <br />
+  
 - 김혜인(팀장, FE)
     - Frontend - Next.js, Redux, Sass(Scss)
 - 김동유(FE)
@@ -24,6 +99,7 @@
 - 임혁(BE)
     - WebRTC - Kurento
 - 조은지(BE)
+    - Frontend - Sass(Scss)
     - WebRTC - Kurento
 
 ## 기술 스택
@@ -63,12 +139,8 @@
 ![Untitled](./images/introduce.png)
 
 - 와이어프레임 ([링크](https://www.figma.com/file/uYN0Te96uSVsloWIQJShqm/%EB%B3%B4%EB%A6%AC-%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?node-id=0%3A1))
-
-
-
-### 사용자 메뉴얼
-
-<img src="./images/manual.png" alt="manual" style="zoom:50%;" />
+<!-- ## 사용자 메뉴얼 -->
+<!-- <img src="./images/manual.png" alt="manual" style="zoom:50%;" /> -->
 
 ### 소셜 로그인
 
